@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, I'm Paul 👋
 
-<!--
-**paul-mendoza-bravo/paul-mendoza-bravo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a programming student and aspiring data analyst 📊  
+Passionate about turning raw data into actionable insights and writing code that shines.
 
-Here are some ideas to get you started:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paul-mendoza-bravo&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paul-mendoza-bravo&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paul%20Mendoza-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/paul-mendoza-a1418423b)  
+[![Email](https://img.shields.io/badge/Email-paulbringspepper@gmail.com-red?style=flat&logo=gmail)](mailto:paulbringspepper@gmail.com)
+
+## Demo Gif
+![Demo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODlzeTB1MHYwYmdxOHJ0OTNxcGR5MmN3eDQ0ZTc3aGFqcmNra212NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif)
+
+---
+
+*Fun fact:* I debug code faster than I drink coffee ☕️
